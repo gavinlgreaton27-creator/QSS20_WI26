@@ -25,7 +25,7 @@ problemsets/pset8/
 # lectures/lec03/
 # lectures/lec04/
 # lectures/lec05/
-lectures/lec06/
+# lectures/lec06/
 lectures/lec07/
 lectures/lec08/
 lectures/lec09/
@@ -41,7 +41,7 @@ lectures/lec15/
 # activity_solutions/lec02_activity.ipynb
 # activity_solutions/lec03_activity.ipynb
 # activity_solutions/lec04_activity.ipynb
-activity_solutions/lec05_activity.ipynb
+# activity_solutions/lec05_activity.ipynb
 activity_solutions/lec06_activity.ipynb
 activity_solutions/lec07_activity.ipynb
 activity_solutions/lec08_activity.ipynb
